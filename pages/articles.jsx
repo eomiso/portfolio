@@ -7,7 +7,7 @@ const ArticlesPage = ({ articles }) => {
       <h3>
         Recent Posts from{' '}
         <a
-          href="https://dev.to/itsnitinr"
+          href="https://dev.to/eomiso"
           target="_blank"
           rel="noopener"
           className={styles.underline}
@@ -33,6 +33,7 @@ export async function getStaticProps() {
       },
     }
   );
+
 
   const data = await res.json();
 
