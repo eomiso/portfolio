@@ -85,3 +85,45 @@
 .css-modules:hover {
   background: rgba(21, 114, 182, 0.25);
 }
+
+.pytorch {
+  border: 2px solid rgb(236, 68, 45);
+}
+.pytorch:hover {
+  background: rgba(236, 68, 45, 0.25);
+}
+
+.python {
+  border: 2px solid rgb(58, 109, 158);
+}
+.python:hover {
+  background: rgba(58, 109, 158, 0.25);
+}
+
+.nlp {
+  border: 2px solid rgb(91, 157, 107);
+}
+.nlp:hover {
+  background: rgba(91, 157, 107, 0.25);
+}
+
+.rl {
+  border: 2px solid rgb(53, 164, 239);
+}
+.rl:hover {
+  background: rgba(53, 164, 239, 0.25);
+}
+
+.culture-building {
+  border: 2px solid rgb(174, 72, 116);
+}
+.culture-building:hover {
+  background: rgba(174, 72, 116, 0.25);
+}
+
+.docker {
+  border: 2px solid rgb(254, 204, 43);
+}
+.docker:hover {
+  background: rgba(254, 204, 43, 0.25);
+}

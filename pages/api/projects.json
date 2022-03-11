@@ -4,21 +4,26 @@
     "name": "[RL] Beating the Pommerman environment",
     "image": "https://imgur.com/kbGs6zH.png",
     "description": "A reinforcement learning project from DIYA. Used behavioral cloning to ensure exploration",
-    "tags": ["pytorch", "ML", "Muli-agent RL", "docker", "statistics"]
+    "tags": ["pytorch", "rl", "docker"],
+    "source_code": "None",
+    "demo": "None"
   },
   {
     "id": 2,
-    "name": "[Language] Translated the",
+    "name": "[Language] Translated the Clubhouse community knowledge base",
     "image": "https://imgur.com/kbGs6zH.png",
     "description": "I just love being part of a community. It was an honor to serve at the pick of this interesting change of human dynamics.",
-    "tags": ["language", "english", "communication", "culture building"]
+    "tags": ["culture-building"],
+    "source_code": "None",
+    "demo": "https://www.notion.so/694def75c39944ea9a2029b596d4b372"
   },
   {
     "id": 3,
-    "name": "Personal Database using berkeley db(ongoing)",
+    "name": "Database built from scratch(ongoing)",
     "image": "https://imgur.com/8FFqaX8.png",
-    "description": "Tried to build a DB from scratch",
+    "description": "Building a DB from scratch using the berkeleydb",
     "tags": ["python", "DB", "Fundaentals"],
+    "source_code": "https://github.com/eomiso/MisoDB",
     "demo": "https://www.pcbcupid.com/"
   },
   {
@@ -26,8 +31,9 @@
     "name": "[NLP] Style transfer implementation",
     "image": "https://imgur.com/tAZotn3.png",
     "description": "A food ordering platform for healthy and home-cooked meals",
-    "tags": ["pytorch", "python", "nlp", "ML", "tensorflow2"],
-    "source_code": "https://github.com/eomiso/NLP_text-style-transfer"
+    "tags": ["pytorch", "python", "nlp"],
+    "source_code": "https://github.com/eomiso/NLP_text-style-transfer",
+    "demo": "None"
   },
   {
     "id": 5,
@@ -35,6 +41,7 @@
     "image": "https://imgur.com/mKkz0iz.png",
     "description": "Forked from itsnitinr/vscode-portfolio, deployed to netlify",
     "tags": ["next", "css-modules"],
-    "source_code": "https://github.com/eomiso/portfolio"
+    "source_code": "https://github.com/eomiso/portfolio",
+    "demo": "None"
   }
 ]
